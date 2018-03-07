@@ -4,7 +4,7 @@ A Node.JS application that takes the output of "df" and shows reports on back fi
 
 ## Demo
 
-https://console.starter-us-west-1.openshift.com/console/project/df-report/browse/services/df-report?tab=details
+http://df-report-df-report.a3c1.starter-us-west-1.openshiftapps.com
 
 ![demo1](./demo1.png)
 
