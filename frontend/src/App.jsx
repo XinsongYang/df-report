@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-// import { Switch, BrowserRouter as Router, Route, Redirect } from 'react-router-dom';
 import { Tabs, Alert } from 'antd';
 const TabPane = Tabs.TabPane;
 import axios from 'axios';
@@ -56,17 +55,3 @@ class App extends Component {
 }
 
 export default App;
-
-/*
-<Router>
-    <Switch>
-        <Route exact path="/" render={() => (
-            
-        )}/>
-
-        <Route render={() => (
-            <Redirect to="/"/>
-        )}/>
-    </Switch>
-</Router>
-*/
